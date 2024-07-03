@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvxsvchs
 - 👀 I’m interested in sports, gaming and development
-- 🌱 I’m currently learning qlik, sql, html, css, js
+- 🌱 I’m currently learning sql and python
 
 <!---
 mvxsvchs/mvxsvchs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
