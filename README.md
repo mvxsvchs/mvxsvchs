@@ -18,7 +18,7 @@ Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Wockerath und
 ## 🧰 Skills
 
 **Frontend:**  
-`React` · `TypeScript` · `Vite` · `HTML` · `CSS` · `Python`
+`React` · `TypeScript` · `Vite` · `HTML` · `CSS` 
 
 **Backend (lerne ich aktuell):**  
 `Node.js` · `PostgreSQL`
