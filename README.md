@@ -30,7 +30,7 @@ Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Erkelenz und 
 
 ## 📫 Kontakt
 
-- ✉️ Linkedin: `[Maximilian Sachs](https://www.linkedin.com/in/maximilian-sachs-5b784b287/)`
+- ✉️ Linkedin: `https://www.linkedin.com/in/maximilian-sachs-5b784b287/`
 
 
 
