@@ -1,7 +1,7 @@
 # 👋 Hey, ich bin Maxi
 
 Willkommen auf meinem GitHub-Profil!  
-Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Erkelenz und liebe alles rund um **Code, Games & kreative Projekte**.
+Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Wockerath und liebe alles rund um **Code, Games & kreative Projekte**.
 
 ---
 
