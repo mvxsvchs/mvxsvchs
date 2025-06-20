@@ -30,7 +30,7 @@ Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Wockerath und
 
 ## 📫 Kontakt
 
-- ✉️ Linkedin: `https://www.linkedin.com/in/maximilian-sachs-5b784b287/`
+- ✉️ [Linkedin](https://www.linkedin.com/in/maximilian-joppien-5b784b287/)
 
 
 
