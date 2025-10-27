@@ -8,10 +8,9 @@ Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Wockerath und
 ## 💻 Über mich
 
 - 🧑‍💻 **Azubi zum Fachinformatiker AE** (3. Lehrjahr)
-- ⚛️ Aktuell arbeite ich mit **React & TypeScripte**
 - 🎮 Leidenschaftlicher Gamer & Entwickler eigener Projekte
 - 🧠 Ich liebe es, coole Webtools zu bauen
-- 📚 Derzeit vertiefe ich mein Wissen in **Webentwicklung & Backend-Design**
+- 📚 Derzeit vertiefe ich mein Wissen in **Qlik Sense Extensions & Kotlin **
 
 ---
 
