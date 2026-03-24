@@ -1,39 +1,36 @@
 # 👋 Hey, ich bin Maxi
 
-Willkommen auf meinem GitHub-Profil!  
-Ich bin angehender Fachinformatiker für Anwendungsentwicklung aus Wockerath und liebe alles rund um **Code, Games & kreative Projekte**.
+Willkommen auf meinem GitHub-Profil  
+Ich bin Fachinformatiker für Anwendungsentwicklung aus Wockerath und arbeite gerne an Code, Games und eigenen Projekten.
 
 ---
 
 ## 💻 Über mich
 
-- 🧑‍💻 **Azubi zum Fachinformatiker AE** (3. Lehrjahr)
-- 🎮 Leidenschaftlicher Gamer & Entwickler eigener Projekte
-- 🧠 Ich liebe es, coole Webtools zu bauen
-- 📚 Derzeit vertiefe ich mein Wissen in **Qlik Sense Extensions & Kotlin **
+- 🧑‍💻 **Fachinformatiker Anwendungsentwicklung** 
+- 🎮 Leidenschaft für Gaming und eigene Projekte
+- 🧠 Fokus auf saubere, strukturierte Lösungen
+- ⚙️ Aktuell viel unterwegs mit **React, TypeScript und Kotlin**
+- 📊 Erfahrung mit **Qlik Sense Extensions und Datenvisualisierung**
 
 ---
 
 ## 🧰 Skills
 
 **Frontend:**  
-`React` · `TypeScript` · `Vite` · `HTML` · `CSS` 
+`React` · `TypeScript` · `Vite` · `HTML` · `CSS`
 
-**Backend (lerne ich aktuell):**  
-`Node.js` · `PostgreSQL`
+**Backend:**  
+`FastAPI` · `PostgreSQL` · `Node.js`
+
+**Mobile:**  
+`Kotlin` · `Android`
 
 **Tools & Dev:**  
-`WebStorm` · `PyCharm` . `IntelliJ` . `GitHub`
+`WebStorm` · `IntelliJ` · `PyCharm` · `GitHub`
 
 ---
 
 ## 📫 Kontakt
 
-- ✉️ [Linkedin](https://www.linkedin.com/in/maximilian-joppien-5b784b287/)
-
-
-
-<!---
-mvxsvchs/mvxsvchs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✉️ [LinkedIn](https://www.linkedin.com/in/maximilian-joppien-5b784b287/)
