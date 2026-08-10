@@ -1,4 +1,4 @@
-# Hey, ich bin Maxi 👋
+# Hey, ich bin Maximilian 👋
 
 **Frontend Developer · Full-Stack Enthusiast · Tech & Gaming**
 
