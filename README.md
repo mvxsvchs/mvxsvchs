@@ -24,7 +24,7 @@ Ich mag sauberen Code, gute User Interfaces und Projekte, bei denen am Ende auch
 
 **Frontend**
 
-`React` `TypeScript` `JavaScript` `Vite` `HTML` `CSS`
+`React` `TypeScript` `Vite` `HTML` `CSS`
 
 **Backend**
 
